@@ -1,0 +1,1 @@
+# Django_face_color_detection
